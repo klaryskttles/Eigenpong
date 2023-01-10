@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Qrack
 {
     public class QuantumRegister : QuantumSystem
     {
